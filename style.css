@@ -1,0 +1,231 @@
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color: rgb(49,49,49);
+    width: 100%;
+    padding: 15px;
+    margin-top: -1%;
+    margin-left: -1%;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    
+    
+    
+    }
+    .navbar{
+        color: white;
+    }
+    .navbar a{
+color: white;
+text-decoration: none;
+    }
+    .head{
+        display: flex;
+        background-color:rgb(245,245,247);
+        justify-content: center;
+        display: flex;
+        height:6vh;
+         }
+    .head2{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    .link{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        gap: 1rem;
+        text-decoration: none;
+    }
+
+    
+    .iphone13{
+        display: flex;
+        width:102%;
+        height: 30%;
+        justify-content: center;
+        
+
+    }
+    .sec2{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .iphonese2020{
+        width: 25%;
+        height: 10%;
+    }
+    .link1{
+        display:flex;
+        flex-direction: row;
+        gap:1rem
+    }
+    .iphonese{
+        width:75%;
+        height:10%;
+    }
+    .sec3{
+        display:flex;
+        flex-direction: row;
+        justify-content: space-between;
+        background-color: black;
+    }
+    .sec3-1{
+        display: flex;
+        flex-direction: column;
+        justify-content: center; 
+        align-items: center;
+        padding-left: 15px;
+        padding-top: 100Px;
+
+        
+    }
+    .link3-1{
+        display: flex;
+        flex-direction: row;
+        gap :1rem;
+        padding-top: 0%;
+        padding-left:0%;
+        padding-bottom: 20px;
+        text-decoration:none;
+    }
+    .link3-1a{
+        display: inline;
+    }
+    .sec3-2{
+        display: flex;
+        width: 90%;
+        height: 30%;
+    }
+    .section{
+         flex-direction: row;
+
+    }
+    .sec4{
+        flex: 1;
+     display: flex;
+     flex-direction: row;
+     }
+    .sec4-1{
+        margin-top: 5px;
+        display: flex;
+        flex:1;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding-right: 300px;
+        padding-left: 140px;
+
+    }
+    .sec4-2{
+        margin-top: 0px;
+        display: flex;
+        flex: 1;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding-right: 200px;
+    }
+    .link4{
+        display: flex;
+        flex-direction: row;
+        gap: 1rem;
+    
+        }
+        
+        .link4 a{
+            text-decoration: none;
+        }
+    .sec5{
+        flex: 1;
+        display: flex;
+        flex-direction: row;
+    }
+    .sec5-1{
+        display: flex;
+        flex:1;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .sec5-2{
+        display: flex;
+        flex: 1;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .sec6{
+        flex: 1;
+        display: flex;
+        flex-direction: row;
+    }
+    .sec6-1{
+        display: flex;
+        flex:1;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .sec6-2{
+        
+        display: flex;
+        flex: 1;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        
+    }
+    .sec61front{
+        margin-top: -20px;
+        padding-left: 200px;
+    }
+    .sec62front{
+        margin-top: -170px;
+        padding-left: 150px;
+    }
+    .sec7parag{
+        
+        text-align: justify;
+        padding: 60px;
+    }
+    .sec8
+    {
+        display: flex;
+        flex:1;
+        text-align: justify;
+        text-align: justify;
+        gap: 2rem;
+        line-height: 1.5;
+        margin-top: -80px;
+        padding-left: 100px;
+    }
+    .sec8 li{
+        list-style:none ;
+    }
+    .sec8 a{
+text-decoration: none;
+color: black;
+    }
+    .listhead{
+        font-weight: bold;
+        background-color:white;
+    }
+    .footerdiv{
+        padding-left: 70px;
+        margin-top: 10px;
+        
+    }
+    .footerdiv a{
+        text-decoration: none;
+        margin-top: 20px;
+
+    }
+
+    
